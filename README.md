@@ -37,3 +37,6 @@ This is a solution to the [Insure Landing Page challenge on Frontend Mentor](htt
 - CSS custom properties
 - Flexbox
 - Mobile-First Workflow
+
+### Code Snippet
+
