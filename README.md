@@ -16,3 +16,5 @@ This is a solution to the [Insure Landing Page challenge on Frontend Mentor](htt
 ## Overview
 
 ### The Challenge
+
+- View the optimal layout for the site depending on their device's screen size
