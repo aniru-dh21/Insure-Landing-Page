@@ -10,7 +10,7 @@ This is a solution to the [Insure Landing Page challenge on Frontend Mentor](htt
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+  - [Code Snippet](#code-snippet)
 - [Author](#author)
 
 ## Overview
