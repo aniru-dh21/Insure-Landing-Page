@@ -11,6 +11,7 @@ This is a solution to the [Insure Landing Page challenge on Frontend Mentor](htt
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Code Snippet](#code-snippet)
+- [Features](#features)
 - [Author](#author)
 
 ## Overview
