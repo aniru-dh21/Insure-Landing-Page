@@ -54,3 +54,10 @@ imgBtn.addEventListener("click", function(){
     }
 })
 ```
+
+## Features
+
+- Fully responsive Design
+- Mobile-first Approach
+- Custom Toggle Navigation Menu
+- Smooth Scrolling
