@@ -40,3 +40,16 @@ This is a solution to the [Insure Landing Page challenge on Frontend Mentor](htt
 
 ### Code Snippet
 
+```js
+imgBtn.addEventListener("click", function(){
+    var menuMobile = document.getElementById("menu-mobile-items");
+
+    if(menuMobile.style.display === "none") {
+        menuMobile.style.display = "block";
+        imgBtn.src = './images/icon-close.svg';
+    } else {
+        menuMobile.style.display = "none";
+        imgBtn.src = './images/icon-hamburger.svg';
+    }
+})
+```
