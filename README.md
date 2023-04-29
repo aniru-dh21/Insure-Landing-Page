@@ -26,5 +26,5 @@ This is a solution to the [Insure Landing Page challenge on Frontend Mentor](htt
 
 ### Links
 
-- [Live Site URL]
-- [Solution URL]
+- [Live Site URL]()
+- [Solution URL](https://github.com/aniru-dh21/Insure-Landing-Page)
