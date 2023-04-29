@@ -61,3 +61,7 @@ imgBtn.addEventListener("click", function(){
 - Mobile-first Approach
 - Custom Toggle Navigation Menu
 - Smooth Scrolling
+
+## Author
+
+- LinkedIn - [Ramachandra Anirudh Vemulapalli](https://www.linkedin.com/in/ramachandra-anirudh-vemulapalli-554b551ba/)
